@@ -1,0 +1,3 @@
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+It starts by comparing the first item to the second,the second to the third and so on until it finds one item out of order.
+It then swaps the two items and starts over.
